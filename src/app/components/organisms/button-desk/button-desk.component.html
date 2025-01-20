@@ -1,11 +1,5 @@
 <div class="button-desk">
-  <app-option-button></app-option-button>
-  <app-option-button></app-option-button>
-  <app-option-button></app-option-button>
-  <app-option-button></app-option-button>
-  <app-option-button></app-option-button>
-  <app-option-button></app-option-button>
-  <app-option-button></app-option-button>
-  <app-option-button></app-option-button>
-  <app-option-button></app-option-button>
+  @for (boton of botones; track $index) {
+    <app-option-button [text]="boton.text" [icon]="boton.icon"></app-option-button>
+  }
 </div>
