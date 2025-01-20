@@ -23,7 +23,9 @@
 }
 
 .option-button__text {
-  font-size: 14px;
+  margin-top: .25rem;
+  font-size: 1rem;
+  line-height: 1.3;
   font-weight: 300;
   color: #002E6D;
   text-align: center;
