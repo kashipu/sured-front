@@ -1,5 +1,5 @@
 .button-desk {
-  padding: 32px;
+  padding: 1rem;
   padding-top: 1.5rem;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
