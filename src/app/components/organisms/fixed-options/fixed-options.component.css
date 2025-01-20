@@ -1,0 +1,21 @@
+.fixed-options {
+  display: flex;
+  width: 100%;
+  background-color: #f1f1f1;
+  position: fixed;
+  bottom: 0;
+}
+
+.fixed-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  padding: 1rem;
+}
+
+.fixed-button p {
+  color: #002E6D;
+  font-size: 14px;
+  font-weight: 300;
+}
