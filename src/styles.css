@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.cdnfonts.com/css/made-outer-sans-alt');
+@import './app/styles/reset.css';
+@import './app/styles/variables.css';
+@import './app/styles/global.css';

@@ -1,0 +1,11 @@
+.background-blue {
+  background-color: #174289;
+  padding: 24px;
+  padding-bottom: 45px;
+  border-radius: 0 0 24px 24px;
+}
+
+.body-content {
+  position: relative;
+  top: -35px;
+}

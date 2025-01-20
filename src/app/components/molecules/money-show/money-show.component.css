@@ -1,0 +1,19 @@
+.money-show {
+  padding: .5rem;
+}
+
+.money-number {
+  display: flex;
+  justify-content: center;
+}
+
+.money-number h1 {
+  font-size: 24px;
+  color: white;
+  font-weight: 400;
+}
+
+.money-show-icon {
+  display: flex;
+  justify-content: center;
+}

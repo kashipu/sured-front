@@ -1,0 +1,8 @@
+.button-desk {
+  padding: 32px;
+  padding-top: 1.5rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+}

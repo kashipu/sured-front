@@ -1,0 +1,8 @@
+.status-bar {
+  background-color: #174289;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px;
+}
