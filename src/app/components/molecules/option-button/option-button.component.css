@@ -7,9 +7,6 @@
 
 .option-button__icon {
   max-width: 60px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   padding: 6px;
   aspect-ratio: 1;
   border-radius: 1rem;

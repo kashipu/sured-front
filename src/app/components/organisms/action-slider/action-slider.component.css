@@ -1,5 +1,6 @@
 .action-slider {
   display: flex;
   justify-content: center;
-  gap: 0rem;
+  flex-wrap: wrap;
+  gap: .2rem;
 }

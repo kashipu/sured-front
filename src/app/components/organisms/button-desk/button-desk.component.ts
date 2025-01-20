@@ -15,8 +15,8 @@ export class ButtonDeskComponent {
     { text: 'Paga tus \n facturas', icon: 'paga.svg' },
     { text: 'Compra \n contenido', icon: 'compra.svg' },
     { text: 'Recarga \n tu Betplay', icon: 'betplay.svg' },
-    { text: 'Seguros \n \n', icon: 'seguros.svg' },
-    { text: 'Cajero \n \n', icon: 'cajero.svg' }
+    { text: 'Seguros', icon: 'seguros.svg' },
+    { text: 'Cajero', icon: 'cajero.svg' }
   ]
 
 }
