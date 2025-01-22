@@ -1,17 +1,24 @@
 .fixed-options {
-  display: flex;
   width: 100%;
   background-color: #f1f1f1;
   position: fixed;
   bottom: 0;
+  padding-bottom: 1rem;
+}
+
+.fixed-options-box {
+  display: grid;
+  grid-template-columns: 1fr 2.5fr 1fr;
+  background-image: url(../../../../assets/wave.svg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  padding: 1rem;
 }
 
 .fixed-button {
   display: flex;
   flex-direction: column;
   align-items: center;
-  flex: 1;
-  padding: 1rem;
 }
 
 .fixed-button p {

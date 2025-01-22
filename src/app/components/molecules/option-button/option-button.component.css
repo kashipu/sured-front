@@ -1,5 +1,5 @@
 .option-button__container {
-  padding: .5rem;
+  padding: 0rem;
   display: grid;
   grid-template-rows: 1fr .5fr;
   justify-items: center;

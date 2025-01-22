@@ -1,8 +1,9 @@
 .button-desk {
-  padding: 2.5rem;
   padding-top: 1.5rem;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  gap: .5rem;
+  padding: 0rem 1.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(85px, 1fr));
   max-width: 500px;
   margin: 0 auto;
 }
